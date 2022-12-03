@@ -1,4 +1,4 @@
-# Javascript
+# JavaScript
 
 ### Como Executar o JS
 - Console browsers
