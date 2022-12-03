@@ -57,13 +57,16 @@ var cavalo = cinza
 
 ### e) Quantas prestações são necessárias para pagar o valor do carro com uma entradade 3.000? Demonstre a operação.
 
+atribuindo valores
 - var valor = 3000
 - var prestacao = 750
 - var entrada = 3000
 
+calculando o restante para parcelar
 - var restante = valor - entrada 
 - var restante = 0
 
+calculando o número de prestações
 - var Nprestacao = restante / prestacao
 - var Nprestacao = 0
 
